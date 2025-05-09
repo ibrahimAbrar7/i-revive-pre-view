@@ -25,12 +25,12 @@ const BackToTop = () => {
   return (
     <button
       onClick={scrollToTop}
-      className={`fixed bottom-4 right-4 p-4 bg-primary hover:bg-primary/80 z-50 text-white rounded-full shadow-lg transform transition-all ${
+      className={`fixed bottom-4 right-4 p-3 md:p-4 bg-primary hover:bg-primary/80 z-50 text-white rounded-full shadow-lg transform transition-all ${
         isVisible ? "opacity-100 scale-100" : "opacity-0 scale-75 pointer-events-none"
       }`}
       aria-label="Back to Top"
     >
-      <GoArrowUp size={30} className="text-white animate-bounce"/> 
+      <GoArrowUp size={27} className="text-white animate-bounce"/> 
     </button>
   );
 };
