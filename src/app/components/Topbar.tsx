@@ -39,7 +39,7 @@ const Topbar = () => {
           </Link>
         </div>
 
-        <div className="flex space-x-4 justify-center items-center pr-5">
+        <div className="flex space-x-4 justify-center items-center">
           {socialLinks.map(({ href, icon, label }) => (
             <Link
               key={label}
