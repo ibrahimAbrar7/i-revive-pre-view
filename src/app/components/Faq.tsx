@@ -10,7 +10,7 @@ const Faq = () => {
   };
 
   return (
-    <section className="container mx-auto px-6 md:px-12 pt-8 pb-14">
+    <section className="container mx-auto px-6 md:px-12 pt-8 pb-14 bg-white">
       <div className="space-y-4">
         {faqData.map((faq, index) => (
           <div key={faq.id} className="border rounded-lg overflow-hidden">
@@ -22,7 +22,7 @@ const Faq = () => {
                 <span className="text-primary font-bold mr-3 md:mr-4">
                   {String(index + 1).padStart(2, "0")}
                 </span>
-                <span className="text-sm md:text-base">{faq.question}</span>
+                <span className="text-sm md:text-base text-gray-800">{faq.question}</span>
               </span>
               <span className="text-primary text-lg md:text-xl">
                 {openIndex === index ? "−" : "+"}
