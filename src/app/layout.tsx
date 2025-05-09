@@ -1,15 +1,18 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Open_Sans, Playfair_Display } from "next/font/google"; // Import Playfair Display
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+// Load Open Sans and Playfair Display from Google Fonts via next/font
+const openSans = Open_Sans({
   subsets: ["latin"],
+  variable: "--font-open-sans",
+  display: "swap", // Optional: improves performance
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const playfairDisplay = Playfair_Display({
   subsets: ["latin"],
+  variable: "--font-playfair-display",
+  display: "swap", // Optional: improves performance
 });
 
 export const metadata: Metadata = {
@@ -24,9 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${openSans.variable} ${playfairDisplay.variable} font-sans antialiased`}>
         {children}
       </body>
     </html>

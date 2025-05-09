@@ -1,4 +1,3 @@
-
 "use client";
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
@@ -18,8 +17,11 @@ const Header = () => {
   }, []);
 
   return (
-    <header className={`bg-white shadow-md transition-all duration-300 ${isScrolled ? "py-3" : "py-4"}`}>
-      <div className="container mx-auto flex justify-between items-center px-6 md:px-12">
+    <header
+  className={`bg-white shadow-md transition-all duration-300 h-[80px] border-b border-gray-300 sticky top-0 z-50`}
+>
+  <div className={`h-full flex justify-between items-center px-8 transition-all duration-300 ${isScrolled ? "py-3" : "py-6"}`}>
+        {/* Logo */}
         <Link href="/">
           <Image
             src="/i-revive-logo.avif"
@@ -30,13 +32,22 @@ const Header = () => {
             className="transition-all duration-300 max-w-[180px] md:max-w-[170px] h-auto"
           />
         </Link>
-        <div className="hidden sm:flex md:hidden xl:flex">
+        
+        {/* Navbar */}
+        <div className="hidden xl:flex">
           <Navbar />
         </div>
-        <button className="flex xl:hidden text-gray-800" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
-          {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
+
+        {/* Mobile Menu Toggle Button */}
+        <button
+          className="flex xl:hidden text-gray-800"
+          onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+        >
+          {isMobileMenuOpen ? <X size={28} /> : <Menu size={48} className="border-primary border px-2 rounded-lg text-primary" />}
         </button>
       </div>
+
+      {/* Mobile Menu */}
       <MobileMenu isOpen={isMobileMenuOpen} onClose={() => setIsMobileMenuOpen(false)} />
     </header>
   );

@@ -1,7 +1,11 @@
 "use client";
 import { motion } from "framer-motion"; // Ensure motion is correctly imported
-import { FaUserMd, FaBriefcaseMedical, FaHeartbeat, FaUsers } from "react-icons/fa"; // Ensure icons are imported correctly
-
+import {
+  FaUserMd,
+  FaBriefcaseMedical,
+  FaHeartbeat,
+  FaUsers,
+} from "react-icons/fa"; // Ensure icons are imported correctly
 
 const WhyChooseUs = () => {
   return (
@@ -10,7 +14,7 @@ const WhyChooseUs = () => {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, ease: "easeOut" }}
       viewport={{ once: true }}
-      className="py-6 lg:py-12 px-6 md:px-20 bg-white text-center"
+      className="py-12 px-6 md:px-20 bg-white text-center"
     >
       {/* Section Heading */}
       <motion.div
@@ -18,28 +22,40 @@ const WhyChooseUs = () => {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
         viewport={{ once: true }}
-        className="mb-12"
+        className="mb-16"
       >
-        <h3 className="text-lg sm:text-xl md:text-2xl font-semibold text-primary tracking-widest uppercase">
-          Why Choose Us
-        </h3>
-        <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-snug mt-2 font-serif">
-          Why Choose Us? Reclaim Your <br className="hidden md:block" /> Health
-          and Vitality.
+        <div className="flex justify-center items-center text-green-700 text-sm font-semibold tracking-wide">
+        <h3 className="mx-[-1.5rem] md:mx-[-5rem] flex items-center gap-4 text-[#99b760] font-semibold text-xl md:text-3xl font-playfair-display uppercase tracking-wider pb-2 md:pb-4">
+            {/* Left Side Lines */}
+            <span className="flex flex-col gap-[5px] mt-2 transform scale-x-[-1]">
+              <span className="w-12 h-[2px] bg-[#99b760]"></span>
+              <span className="w-20 h-[2px] bg-[#99b760]"></span>
+            </span>
+            <span className="block md:inline">
+              Why Choose Us 
+            </span>
+            <span className="flex flex-col gap-[5px] mt-2">
+              <span className="w-12 h-[2px] bg-[#99b760]"></span>
+              <span className="w-20 h-[2px] bg-[#99b760]"></span>
+            </span>
+          </h3>
+        </div>
+
+        <h2 className="text-2xl md:text-3xl lg:text-4xl font-medium text-gray-900 leading-tight md:leading-[1.3] font-serif">
+          Why Choose Us? Reclaim Your Health and Vitality
         </h2>
-        <p className="mt-4 text-lg sm:text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+        <p className="mt-4 text-lg md:text-xl text-gray-500 max-w-3xl mx-auto leading-relaxed text-justify">
           Choose i-revive for expert care, a safe environment, and personalized
           Hijama sessions that promote natural healing and balance. Your
           wellness is our priority.
         </p>
       </motion.div>
 
-      {/* Features Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-8">
-        {[
+      <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-10 md:gap-8 px-6 lg:px-6">
+        {[ 
           {
             icon: (
-              <FaUserMd className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110" />
+              <FaUserMd className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110 group-hover:text-white" />
             ),
             title: "Licensed Therapist",
             description:
@@ -47,7 +63,7 @@ const WhyChooseUs = () => {
           },
           {
             icon: (
-              <FaBriefcaseMedical className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110" />
+              <FaBriefcaseMedical className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110 group-hover:text-white" />
             ),
             title: "Personalized Treatment",
             description:
@@ -55,7 +71,7 @@ const WhyChooseUs = () => {
           },
           {
             icon: (
-              <FaHeartbeat className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110" />
+              <FaHeartbeat className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110 group-hover:text-white" />
             ),
             title: "Therapy Goals",
             description:
@@ -63,7 +79,7 @@ const WhyChooseUs = () => {
           },
           {
             icon: (
-              <FaUsers className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110" />
+              <FaUsers className="text-primary text-6xl mb-4 transition duration-300 group-hover:scale-110 group-hover:text-white" />
             ),
             title: "Experienced Staff",
             description:
@@ -76,18 +92,18 @@ const WhyChooseUs = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: index * 0.2, ease: "easeOut" }}
             viewport={{ once: true }}
-            className="relative overflow-hidden border border-green-400 rounded-xl p-8 flex flex-col items-center text-left shadow-sm transition group"
+            className="relative overflow-hidden border border-primary hover:border-green-600 rounded-xl p-6 md:p-8 flex flex-col items-center text-left shadow-md transition-all duration-300 group"
           >
             {/* Background overlay animation */}
-            <div className="absolute inset-0 bg-green-400/20 w-0 h-full left-0 top-0 transition-all duration-500 ease-in-out group-hover:w-full"></div>
+            <div className="absolute inset-0 bg-primary w-0 h-full left-0 top-0 transition-all duration-500 ease-in-out group-hover:w-full"></div>
 
             {/* Content stays on top */}
             <div className="relative z-10">
               {feature.icon}
-              <h4 className="text-xl md:text-2xl font-semibold text-gray-900 transition-colors duration-500">
+              <h4 className="text-xl md:text-2xl font-semibold text-gray-900 group-hover:text-white mt-4 transition-colors duration-500">
                 {feature.title}
               </h4>
-              <p className="text-gray-600 text-lg leading-relaxed mt-3 transition-colors duration-500">
+              <p className="text-gray-600 group-hover:text-gray-100 text-lg mt-3 leading-relaxed transition-colors duration-500">
                 {feature.description}
               </p>
             </div>

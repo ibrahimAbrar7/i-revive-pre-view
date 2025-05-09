@@ -1,8 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { FaArrowUpLong } from "react-icons/fa6";
-
+import React, { useState, useEffect } from "react";import { GoArrowUp } from "react-icons/go";
 const BackToTop = () => {
   const [isVisible, setIsVisible] = useState(false);
 
@@ -32,7 +30,7 @@ const BackToTop = () => {
       }`}
       aria-label="Back to Top"
     >
-      <FaArrowUpLong size={20} className="animate-bounce duration-2000"/> 
+      <GoArrowUp size={30} className="text-white animate-bounce"/> 
     </button>
   );
 };

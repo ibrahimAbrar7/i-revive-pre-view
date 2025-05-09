@@ -7,15 +7,15 @@ export const faqData = [
   },
   {
     id: 2,
-    question: "Why am I not seeing any immediate results of the Cupping therapy?",
+    question:
+      "Why am I not seeing any immediate results of the Cupping therapy?",
     answer:
       "A Cupping session will often give immediate pain relief in many parts of the body, especially for lower-back pain, but for other areas it may however take a bit longer. Cupping works in several ways; both as a detoxification of the blood and as a preventative medicine. When working with preventing diseases, the effects of the Cupping will take longer as it attempts to influence and improve the condition as a whole. You may not notice the effects it had on you immediately – although your overall health and immune system is in fact improving, sometimes without you even noticing it.",
   },
   {
     id: 3,
     question: "How long will the bruises remain on my skin?",
-    answer:
-      `
+    answer: `
         <ul class="list-disc pl-5 space-y-2">
         <li> The bruising is also known as “ecchymosis”- simply a temporary discoloration and not permanent scarring. The redness from the cups being applied should start to fade in 48 hours. Scratches take around 7-14 days to heal in most clients.
         </li>
@@ -33,7 +33,7 @@ export const faqData = [
   {
     id: 5,
     question: "What is the difference between ‘Wet Cupping and ‘Dry Cupping’?",
-    answer:`
+    answer: `
         <ul class="list-disc pl-5 space-y-2">
         <li> Dry Cupping - This is the process of using a vacuum on different areas of the body in order to gather the blood in that area without incisions. 70% of diseases, pain or ailments are due to the blood congestion and its inability to reach certain parts of the body. Dry massage cupping allows the blood to reach these places, therefore being a remedy to many ailments that people suffer from.
         </li>

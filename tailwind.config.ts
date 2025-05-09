@@ -19,7 +19,7 @@ export default {
         gridinfo: "#1b382480"
       },
       fontFamily: {
-        playfair: ["Playfair Display", "serif"],
+        playfair: ['"Open Sans"', 'sans-serif'],
       },
       boxShadow: {
         "custom-shadow": "0 0 45px rgba(0, 0, 0, .2)", // Adjust values as needed

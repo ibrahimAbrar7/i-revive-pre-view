@@ -15,7 +15,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
           <p>
@@ -264,7 +264,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             The Ultimate Guide to Cupping Therapy for Women in Hyderabad
           </h1>
           <p>
@@ -563,7 +563,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Why Choose a Female Hijama Specialist in Hyderabad?
           </h1>
           <p>
@@ -722,7 +722,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Hormonal Issues?
           </h1>
           <p>
@@ -901,7 +901,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Why blood cleansing is vital?
           </h1>
           <p>
@@ -1074,7 +1074,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Why Hijama?
           </h1>
           <p>
@@ -1247,7 +1247,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             What&apos;s happening under the Cups?
           </h1>
           <p>
@@ -1391,7 +1391,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             What is Hijama Cupping ?
           </h1>
           <p>
@@ -1541,7 +1541,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Effects of Hijama Cupping
           </h1>
           <p>
@@ -1756,7 +1756,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Treating Spider Veins, Varicose Veins by Hijama Cupping
           </h1>
           <p>
@@ -1984,7 +1984,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             PCOS : Answer is Hijama Cupping
           </h1>
           <p>
@@ -2177,7 +2177,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Best Hijama Practices
           </h1>
           <p>
@@ -2404,7 +2404,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Heavy Metals removal by Hijama
           </h1>
           <div className="w-full aspect-square max-h-[750px] p-4 lg:p-14">
@@ -2735,7 +2735,7 @@ export const blogPosts = [
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
           <p>Oct 30, 2024 3 min read</p>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-playfair py-6">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6">
             Stress and Hijama
           </h1>
           <div className="w-full aspect-square max-h-[750px] p-4 lg:p-14">

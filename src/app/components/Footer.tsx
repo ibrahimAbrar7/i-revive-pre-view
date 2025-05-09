@@ -2,103 +2,72 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { FaFacebookF, FaInstagram } from "react-icons/fa";
-import {FaYoutube } from "react-icons/fa6";
+import { FaInstagram, FaYoutube } from "react-icons/fa";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { MdLocationOn, MdMail, MdPhone } from "react-icons/md";
 
 const Footer = () => {
   const links = [
-    { name: "About Us", href: "/about-us" },
+    { name: "Home", href: "/" },
+    { name: "About", href: "/about" },
     { name: "Treatment Plans", href: "/treatment-plans" },
-    { name: "Faq's", href: "/faq" },
-    { name: "Our Blog & News", href: "/blog" },
-    { name: "Contact Us", href: "/contact-us" },
+    { name: "Blogs", href: "/blogs" },
+    { name: "FAQs", href: "/faq" },
+    { name: "Testimonial", href: "/testimonial" },
+    { name: "Courses", href: "/courses" },
     { name: "Book Appointment", href: "/book-appointment" },
   ];
+
   const services = [
+    { title: "Sunnah Basic", slug: "sunnah-basic" },
+    { title: "Sunnah Plus", slug: "sunnah-plus" },
+    { title: "Vital Organ Cleanse", slug: "vital-organ-cleanse" },
+    { title: "Head Cupping", slug: "head-cupping" },
+    { title: "Lymphatic Cleanse", slug: "lymphatic-cleanse" },
+    { title: "Infertility Cupping", slug: "infertility-cupping" },
+    { title: "i-Revive Plan", slug: "i-revive-plan" },
+    { title: "Custom Plan", slug: "custom-plan" },
     {
-      id: 1,
-      title: "Sunnah Basic",
-      slug: "sunnah-basic",
-    },
-    {
-      id: 2,
-      title: "Sunnah Plus",
-      slug: "sunnah-plus",
-    },
-    {
-      id: 3,
-      title: "Vital Organ Cleanse",
-      slug: "vital-organ-cleanse",
-    },
-    {
-      id: 4,
-      title: "Head Cupping",
-      slug: "head-cupping",
-    },
-    {
-      id: 5,
-      title: "Lymphatic Cleanse",
-      slug: "lymphatic-cleanse",
-    },
-    {
-      id: 6,
-      title: "Infertility Cupping",
-      slug: "infertility-cupping",
-    },
-    {
-      id: 7,
-      title: "i-Revive Plan",
-      slug: "i-revive-plan",
-    },
-    {
-      id: 8,
-      title: "Custom Plan",
-      slug: "custom-plan",
-    },
-    {
-      id: 9,
       title: "Sports Plus",
       slug: "why-choose-a-female-hijama-specialist-in-hyderabad",
     },
   ];
+
   return (
-    <footer className="bg-blackone text-gray-300">
-      <div className="container mx-auto px-10 grid grid-cols-1 lg:grid-cols-4 gap-12 items-start pt-10">
-        {/* Logo and Quote */}
-        <div className="flex flex-col items-start">
-          <Link href="/" className="flex items-center">
-            <div className="relative w-52 h-20">
+    <footer className="bg-blackone text-gray-300 text-sm">
+      <div className="container mx-auto px-6 lg:px-10 py-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        {/* Logo & Quote */}
+        <div>
+          <Link href="/" className="inline-block mb-4">
+            <div className="relative w-48 h-16">
               <Image
                 src="/i-revive-logof.avif"
                 alt="i-REVIVE Logo"
                 fill
-                sizes="(max-width: 768px) 100px, (max-width: 1200px) 150px, 200px"
                 className="object-contain"
                 priority
               />
             </div>
           </Link>
-          <p className="mt-4 text-lg leading-relaxed max-w-xs">
+          <p className="text-lg leading-relaxed max-w-xs mt-2">
             If you think wellness is expensive, then how about illness?
           </p>
-          <div className="flex gap-3 mt-6">
-            {[FaFacebookF, FaInstagram, FaYoutube].map((Icon, idx) => (
+          <div className="flex gap-3 mt-5">
+            {[FaInstagram, FaYoutube].map((Icon, i) => (
               <a
-                key={idx}
+                key={i}
                 href={
-                  idx === 0
-                    ? "https://www.facebook.com/share/16BDece5wc/" // Replace with your Facebook URL
-                    : idx === 1
-                    ? "https://www.instagram.com/i.revive_hyd?igsh=MXB3aXllMmk2ZXFzZQ==" // Replace with your Instagram URL
-                    : "https://youtube.com/@i-revive4714?si=jG9xuzmtJMG8GmCu"
+                  i === 0
+                    ? "https://www.facebook.com/share/16BDece5wc/"
+                    : i === 1
+                    ? "https://www.instagram.com/i.revive_hyd"
+                    : "https://youtube.com/@i-revive4714"
                 }
-                className="bg-primary p-3 rounded-full text-white hover:bg-hovershed transition-all"
+                className="bg-primary hover:bg-hovershed text-white p-2.5 rounded-full transition-all"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Icon size={20} />
+                <Icon size={16} />
               </a>
             ))}
           </div>
@@ -106,77 +75,88 @@ const Footer = () => {
 
         {/* Quick Links */}
         <div>
-          <h3 className="text-white font-semibold text-xl mb-5">Quick Links</h3>
+          <h4 className="text-white font-semibold text-lg md:text-xl mb-4">
+            Quick Links
+          </h4>
           <ul className="space-y-3">
-            {links.map((link, index) => (
-              <Link href={link.href} key={index}>
-                <li className="flex items-center gap-2 mb-2 hover:text-hovershed cursor-pointer transition-all duration-300 hover:tracking-wider">
-                  <IoIosArrowRoundForward size={20} /> {link.name}
-                </li>
-              </Link>
+            {links.map((link, idx) => (
+              <li key={idx}>
+                <Link
+                  href={link.href}
+                  className="flex items-center gap-2 hover:text-hovershed transition-all hover:tracking-wide text-md md:text-lg"
+                >
+                  <IoIosArrowRoundForward size={22} /> {link.name}
+                </Link>
+              </li>
             ))}
           </ul>
         </div>
 
         {/* Services */}
         <div>
-          <h3 className="text-white font-semibold text-xl mb-5">Services</h3>
-          <ul className="space-y-3">
-            {services.map((service, index) => (
-              <Link href={`/treatment-plans/${service.slug}`} key={index}>
-                <li
-                key={index}
-                className="flex items-center gap-2 hover:text-hovershed cursor-pointer transition-all duration-300 hover:tracking-wider"
-              >
-                <IoIosArrowRoundForward size={20} /> {service.title}
+          <h4 className="text-white font-semibold text-2xl mb-4">Services</h4>
+          <ul className="space-y-2">
+            {services.map((service, idx) => (
+              <li key={idx}>
+                <Link
+                  href={`/treatment-plans/${service.slug}`}
+                  className="flex items-center gap-2 hover:text-hovershed transition-all hover:tracking-wide text-md md:text-lg"
+                >
+                  <IoIosArrowRoundForward size={18} /> {service.title}
+                </Link>
               </li>
-              </Link>
             ))}
           </ul>
         </div>
 
         {/* Contact Info */}
-        <div>
-          <h3 className="text-white font-semibold text-xl mb-5">
+        <address className="not-italic">
+          <h4 className="text-white font-semibold text-2xl mb-4">
             Contact Info
-          </h3>
-          <ul className="space-y-4 text-lg">
-            <li className="flex gap-2 transition-all duration-300">
+          </h4>
+          <ul className="space-y-6 text-base">
+            <li className="flex items-start gap-3">
               <MdLocationOn
-                className="text-primary mt-1 flex-shrink-0"
-                size={22}
+                className="text-primary mt-1.5 flex-shrink-0"
+                size={20}
               />
-              <span className="leading-tight">
+              <span className="max-w-xs leading-relaxed">
                 6th floor, Mawin Zamzam, opposite Prince Hotel, Mehdipatnam,
                 Hyderabad, Telangana 500028, India
               </span>
             </li>
-            <li className="flex items-center gap-2 transition-all duration-300 hover:tracking-wider">
-              <MdMail className="text-primary" size={22} />
-              <Link href="mailto:info@irevive.com">info@irevive.com</Link>
+
+            <li className="flex items-center gap-2">
+              <MdMail className="text-primary" size={20} />
+              <Link
+                href="mailto:info@irevive.com"
+                className="hover:text-hovershed"
+              >
+                info@irevive.com
+              </Link>
             </li>
-            <li className="flex items-center gap-2 transition-all duration-300 hover:tracking-wider">
-              <MdPhone className="text-primary" size={22} />
-              <Link href="tel:+918009944335">800-9944-335</Link>
+            <li className="flex items-center gap-2">
+              <MdPhone className="text-primary" size={20} />
+              <Link href="tel:+918009944335" className="hover:text-hovershed">
+                +91 80099 44335
+              </Link>
             </li>
           </ul>
-        </div>
+        </address>
       </div>
 
-      {/* Footer Bottom */}
-      <div className="bg-blackshed mt-12 py-4 text-center text-gray-400 flex justify-center items-center px-10">
-        <p className="text-lg">
-          &copy; 2025{" "}
-          <Link
-            href="https://www.i-revive.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-primary hover:text-hovershed"
-          >
-            i-REVIVE
-          </Link>
-          , All rights reserved.
-        </p>
+      {/* Bottom Bar */}
+      <div className="bg-blackshed text-center py-4 text-white text-md md:text-lg">
+        &copy; 2025{" "}
+        <Link
+          href="https://www.i-revive.com/"
+          className="text-primary hover:text-hovershed transition-all"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          i-REVIVE
+        </Link>
+        . All rights reserved.
       </div>
     </footer>
   );
