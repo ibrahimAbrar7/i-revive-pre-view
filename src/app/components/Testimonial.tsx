@@ -55,7 +55,7 @@ export default function Testimonials() {
             height={60}
             className="mb-2"
           />
-          <h2 className="text-4xl md:text-5xl font-bold">5.0</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-black">5.0</h2>
           <div className="flex justify-center text-yellow-400 my-2">
             {Array(5)
               .fill(0)
