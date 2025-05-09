@@ -85,7 +85,7 @@ export default function OurTeam() {
                       )}
                     </div>
                     {/* Hover Overlay */}
-                    <div className="absolute inset-0 border border-gray-400 bg-primary dark:bg-gray-900/80 text-center px-4 flex flex-col justify-center items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div className="absolute inset-0 border border-gray-400 bg-primary  text-center px-4 flex flex-col justify-center items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                       <h3 className="text-xl lg:text-2xl font-semibold text-gray-900 mb-1">
                         {member.name}
                       </h3>
@@ -111,11 +111,11 @@ export default function OurTeam() {
             disabled={!canScrollPrev}
             className={`absolute top-1/2 -left-4 lg:-left-12 transform -translate-y-1/2 p-2 rounded-full shadow-md z-10 transition-all lg:hidden ${
               canScrollPrev
-                ? "bg-primary dark:bg-gray-700 hover:bg-primary/80 dark:hover:bg-gray-600"
-                : "opacity-50 cursor-not-allowed bg-gray-200 dark:bg-gray-800"
+                ? "bg-primary hover:bg-primary/80"
+                : "opacity-50 cursor-not-allowed bg-gray-200"
             }`}
           >
-            <ChevronLeft className="h-6 w-6 text-white dark:text-black" />
+            <ChevronLeft className="h-6 w-6 text-white" />
           </button>
 
           <button
@@ -123,11 +123,11 @@ export default function OurTeam() {
             disabled={!canScrollNext}
             className={`absolute top-1/2 -right-4 lg:-right-12 transform -translate-y-1/2 p-2 rounded-full shadow-md z-10 transition-all lg:hidden ${
               canScrollNext
-                ? "bg-primary dark:bg-gray-700 hover:bg-primary/80 dark:hover:bg-gray-600"
-                : "opacity-50 cursor-not-allowed bg-gray-200 dark:bg-gray-800"
+                ? "bg-primary hover:bg-primary/80"
+                : "opacity-50 cursor-not-allowed bg-gray-200"
             }`}
           >
-            <ChevronRight className="h-6 w-6 text-white dark:text-white" />
+            <ChevronRight className="h-6 w-6 text-white" />
           </button>
         </div>
       </div>
