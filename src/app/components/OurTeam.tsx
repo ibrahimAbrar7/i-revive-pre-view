@@ -35,7 +35,7 @@ export default function OurTeam() {
   const scrollNext = () => emblaApi?.scrollNext();
 
   return (
-    <section className="py-16 px-6 lg:px-44">
+    <section className="py-16 px-6 lg:px-44 bg-white">
       <div className="container mx-auto">
         {/* Heading */}
         <div className="flex justify-center items-center">
