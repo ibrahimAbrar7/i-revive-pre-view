@@ -24,7 +24,7 @@ export default function Infertility() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Infertility Cupping
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
              Cupping helps body’s internal Ph / chemical / hormonal balances,
             ridding toxins, clearing blockages and improve blood circulation. It
             facilitates a healthy flow of blood to the reproductive organs
