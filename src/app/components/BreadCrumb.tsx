@@ -14,7 +14,7 @@ const Breadcrumb: React.FC<BreadcrumbProps> = ({ title, subtitle }) => {
         <div className="max-w-3xl mx-auto bg-white rounded-2xl shadow-xl px-12 py-12 md:py-14 text-center">
           <h1 className="text-4xl md:text-5xl font-semibold text-gray-800">{title}</h1>
           {subtitle && (
-            <p className="mt-4 text-gray-500 font-serif text-sm sm:text-base">
+            <p className="mt-4 text-gray-500 font-serif text-sm sm:text-base text-justify">
               {subtitle}
             </p>
           )}
