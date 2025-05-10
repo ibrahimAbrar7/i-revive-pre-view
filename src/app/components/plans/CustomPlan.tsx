@@ -24,7 +24,7 @@ export default function CustomPlan() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Custom Plan
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
              The custom plan targets client specific issues and requirements the
             varying from chronic issues related follow up sessions, pains,
             athletic performance enhancement, injury recoveries, Metaphysical
