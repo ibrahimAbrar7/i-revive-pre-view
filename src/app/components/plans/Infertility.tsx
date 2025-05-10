@@ -95,7 +95,7 @@ export default function Infertility() {
     {/* Requirement */}
     <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md">
       <h2 className="text-2xl font-semibold text-gray-900 mb-4">Requirement</h2>
-      <p className="text-gray-700">1. iRP Lite (Highly recommended but not mandatory): Lymphatic
+      <p className="text-gray-700 text-justify">1. iRP Lite (Highly recommended but not mandatory): Lymphatic
                 cleanse with wet cupping + 3 session full body & vital organ
                 cleanse (upper body + Torso + lower body) <br />
                 <br />
