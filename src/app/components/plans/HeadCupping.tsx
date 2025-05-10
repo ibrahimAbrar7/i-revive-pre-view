@@ -24,7 +24,7 @@ export default function HeadCupping() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Head Cupping  
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               Head cupping is a very beneficial and can treat an array of ailments
             related to the head. Performing cupping therapy on the scalp, can
             help open the follicles and promote blood circulation to help
