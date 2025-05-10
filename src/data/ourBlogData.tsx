@@ -28,7 +28,7 @@ export const blogPosts = [
             Hijama, exploring how it may help you find relief from physical
             discomfort and emotional stress.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             What is Hijama Cupping Therapy?
           </h3>
           <p className="text-gray-700">
@@ -43,7 +43,7 @@ export const blogPosts = [
             people turn to Hijama today is for its powerful relief from pain,
             muscle tension, and mental stress.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             How Hijama Eases Pain
           </h3>
           <p className="text-gray-700">
@@ -58,7 +58,7 @@ export const blogPosts = [
             prolonged stress. By flushing out these toxins, Hijama promotes
             quicker recovery and a sense of lightness in the affected areas.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             A Natural Way to Manage Stress
           </h3>
           <p className="text-gray-700">
@@ -87,7 +87,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             What to Expect During a Hijama Session
           </h3>
           <p className="text-gray-700">
@@ -106,7 +106,7 @@ export const blogPosts = [
             sense of “lightness,” similar to the feeling after a good massage.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Key Benefits of Hijama Cupping Therapy
           </h3>
 
@@ -139,7 +139,7 @@ export const blogPosts = [
             and duration.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Looking for the Best Hijama Center in Hyderabad?
           </h3>
           <p className="text-gray-700">
@@ -163,7 +163,7 @@ export const blogPosts = [
             Hijama services tailored to your needs, helping you achieve
             effective results.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Final Thoughts
           </h3>
           <p className="text-gray-700">
@@ -280,7 +280,7 @@ export const blogPosts = [
             cupping therapy, specifically for women in Hyderabad, and how it can
             help you achieve overall well-being.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             What Is Cupping Therapy?
           </h3>
           <p className="text-gray-700">
@@ -314,7 +314,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Why Is Cupping Beneficial for Women?
           </h3>
           <p className="text-gray-700">
@@ -328,7 +328,7 @@ export const blogPosts = [
             option, especially for those looking for non-invasive, natural
             remedies that work with the body&apos;s natural healing process.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Key Benefits of Cupping for Women
           </h3>
 
@@ -358,7 +358,7 @@ export const blogPosts = [
             flow and reducing swelling and inflammation.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Why Choose a Female Hijama Specialist?
           </h3>
           <p className="text-gray-700">
@@ -372,7 +372,7 @@ export const blogPosts = [
             choose a professional with a focus on women&apos;s health.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Finding the Right Cupping Center in Hyderabad
           </h3>
           <p className="text-gray-700">
@@ -398,7 +398,7 @@ export const blogPosts = [
             tailored treatment plans that focus on your unique health needs.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             At Our Center: We Prioritize Your Comfort and Safety
           </h3>
           <p className="text-gray-700">
@@ -408,7 +408,7 @@ export const blogPosts = [
             possible. We provide disposable gowns, creating a clean, secure
             environment so you can fully relax and focus on your well-being.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             What to Expect During Your Cupping Session
           </h3>
           <br />
@@ -436,7 +436,7 @@ export const blogPosts = [
             is complete, your therapist will clean the area and may offer
             guidance on how to take care of your skin afterward.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Post-Treatment Tips for Women
           </h3>
           <p className="text-gray-700">
@@ -456,7 +456,7 @@ export const blogPosts = [
             yourself a day or two before engaging in vigorous activities to
             allow your body to recover.
           </p>
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             Final Thoughts: A Holistic Path to Wellness
           </h3>
           <br />
@@ -609,7 +609,7 @@ export const blogPosts = [
             conditions such as fertility, skin care, and general wellness.
           </p>
 
-          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
+          <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6 text-gray-700">
             We provide disposable gowns for added comfort and hygiene
           </h3>
           <p className="text-gray-700">
