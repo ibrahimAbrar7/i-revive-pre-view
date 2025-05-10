@@ -203,7 +203,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -501,7 +501,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -660,7 +660,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -839,7 +839,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1012,7 +1012,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1185,7 +1185,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1329,7 +1329,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1480,7 +1480,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1694,7 +1694,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1922,7 +1922,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2115,7 +2115,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2343,7 +2343,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2673,7 +2673,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2914,7 +2914,7 @@ export const blogPosts = [
         </div>
         <div className="flex justify-between py-4">
           <p className="text-gray-700">Recent Posts</p>
-          <p className="text-gray-700">See all</p>
+          <Link href="/blog">     <p className="text-gray-700 hover:underline cursor-pointer">See all</p>   </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
