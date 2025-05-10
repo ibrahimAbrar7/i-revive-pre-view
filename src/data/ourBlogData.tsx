@@ -215,7 +215,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
         </Link>
@@ -229,7 +229,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             The Ultimate Guide to Cupping Therapy for Women in Hyderabad
           </h1>
         </Link>
@@ -243,7 +243,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-choose-a-female-hijama-specialist-in-hyderabad">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why Choose a Female Hijama Specialist in Hyderabad?
           </h1>
         </Link>
@@ -513,7 +513,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/hormonal-issues">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Hormonal Issues?
           </h1>
         </Link>
@@ -527,7 +527,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/bloodcleanse">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why blood cleansing is vital?
           </h1>
         </Link>
@@ -541,7 +541,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why Hijama?
           </h1>
         </Link>
@@ -672,7 +672,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-s-happening-under-the-cups">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             What&apos;s happening under the Cups?
           </h1>
         </Link>
@@ -686,7 +686,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-is-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             What is Hijama Cupping?
           </h1>
         </Link>
@@ -700,7 +700,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-hijama-effects-of-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Effects of Hijama Cupping
           </h1>
         </Link>
@@ -851,7 +851,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/treating-spider-veins-varicose-veins-by-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Treating Spider Veins, Varicose Veins by Hijama Cupping
           </h1>
         </Link>
@@ -865,7 +865,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/pcos-answer-is-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             PCOS: Answer is Hijama Cupping
           </h1>
         </Link>
@@ -879,7 +879,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/best-hijama-practices">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Best Hijama Practices
           </h1>
         </Link>
@@ -1024,7 +1024,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-s-in-a-cup">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Heavy Metals Removal by Hijama
           </h1>
         </Link>
@@ -1038,7 +1038,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/stress-and-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Stress and Hijama
           </h1>
         </Link>
@@ -1052,7 +1052,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
         </Link>
@@ -1197,7 +1197,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
         </Link>
@@ -1211,7 +1211,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             The Ultimate Guide to Cupping Therapy for Women in Hyderabad
           </h1>
         </Link>
@@ -1225,7 +1225,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-choose-a-female-hijama-specialist-in-hyderabad">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why Choose a Female Hijama Specialist in Hyderabad?
           </h1>
         </Link>
@@ -1341,7 +1341,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/hormonal-issues">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Hormonal Issues?
           </h1>
         </Link>
@@ -1355,7 +1355,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/bloodcleanse">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why blood cleansing is vital?
           </h1>
         </Link>
@@ -1369,7 +1369,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Why Hijama?
           </h1>
         </Link>
@@ -1492,7 +1492,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-s-happening-under-the-cups">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             What&apos;s happening under the Cups?
           </h1>
         </Link>
@@ -1506,7 +1506,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-is-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             What is Hijama Cupping?
           </h1>
         </Link>
@@ -1520,7 +1520,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/why-hijama-effects-of-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Effects of Hijama Cupping
           </h1>
         </Link>
@@ -1706,7 +1706,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="pcos-answer-is-hijama-cupping">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             PCOS: Answer is Hijama Cupping
           </h1>
         </Link>
@@ -1720,7 +1720,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="best-hijama-practices">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Best Hijama Practices
           </h1>
         </Link>
@@ -1734,7 +1734,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/what-s-in-a-cup">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Heavy Metals Removal by Hijama
           </h1>
         </Link>
@@ -1934,7 +1934,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/stress-and-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Stress and Hijama
           </h1>
         </Link>
@@ -1948,7 +1948,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/relief-from-pain-and-stress-discovering-hijama-cupping-therapy">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
         </Link>
@@ -1962,7 +1962,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <Link href="/blog/the-ultimate-guide-to-cupping-therapy-for-women-in-hyderabad">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
+          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition text-gray-900">
             The Ultimate Guide to Cupping Therapy for Women in Hyderabad
           </h1>
         </Link>
