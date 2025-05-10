@@ -86,7 +86,7 @@ export default function VitalOrgans() {
     {/* Requirement */}
     <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md">
       <h2 className="text-2xl font-semibold text-gray-900 mb-4">Requirement</h2>
-      <p className="text-gray-700">First timers one Session every 4 to 6 weeks, requiring 3
+      <p className="text-gray-700 text-justify">First timers one Session every 4 to 6 weeks, requiring 3
                 sessions. Followed by quarterly sessions.</p>
     </div>
   </div>
