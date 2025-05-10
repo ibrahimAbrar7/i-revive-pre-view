@@ -24,7 +24,7 @@ export default function SunnahBasic() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Sunnah Basic
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               A starter plan covering key{" "}
               <span className="text-primary font-medium">Sunnah Cupping</span>{" "}
               sites for body maintenance and chronic conditions. Focuses on the
