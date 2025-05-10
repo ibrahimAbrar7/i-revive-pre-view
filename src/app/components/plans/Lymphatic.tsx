@@ -24,7 +24,7 @@ export default function Lymphatic() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Lymphatic Cleanse
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               The lymphatic system is our body’s ‘sewerage system’. It is
             responsible for collecting and removing wastes, toxins, dead cells
             etc from the tissues, acting as a systematic garbage collection
