@@ -24,7 +24,7 @@ export default function IRevivePlan() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
              i-Revive Plan
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               The i-Revive Plan is a master plan that resets the whole body
             addressing almost all diseases & conditions, chronic issues, various
             imbalances etc. It kickstarts the body back to optimum health using
