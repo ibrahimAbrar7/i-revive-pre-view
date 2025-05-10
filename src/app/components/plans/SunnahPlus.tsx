@@ -24,7 +24,7 @@ export default function SunnahPlus() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Sunnah Plus
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               The Sunnah Plus is a more extensive plan that covering 9 (10 with
             2nd Kahil) points including the basic Sunnah points, along with a
             deep tissue stroke and gliding cupping.
