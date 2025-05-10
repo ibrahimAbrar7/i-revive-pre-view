@@ -7,7 +7,7 @@ import { TreatmentPlan } from "../TreatmentPlans";
 
 export default function CustomPlan() {
   return (
-    <section className="text-black bg-white">
+    <section className="text-black bg-white mt-7 md:mt-0">
       <TreatmentPlan />
       <section className="relative bg-white py-10">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-4 items-center">
