@@ -9,7 +9,7 @@ export default function HeadCupping() {
   return (
     <section className="text-black bg-white">
       <TreatmentPlan />
-      <section className="relative bg-white py-10">
+      <section className="relative bg-white py-10 mt-7 md:mt-0">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-4 items-center">
           {/* Text Content */}
           <div>
