@@ -24,7 +24,7 @@ export default function SportsPlus() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
               Sports Plus
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               The Sports Plus plan is the go-to treatment for every athlete and
             gym-goer. Athletes generally choose to have cupping therapy done
             before participating in their sport, as well as after. Most have a
