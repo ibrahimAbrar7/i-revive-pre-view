@@ -14,11 +14,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Relief from Pain and Stress: Discovering Hijama Cupping Therapy
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In today&apos;s world, pain and stress seem to be constant
             companions. Many of us are searching for natural, effective ways to
             feel better without relying heavily on medications. Hijama Cupping
@@ -31,7 +31,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             What is Hijama Cupping Therapy?
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama, often referred to as “wet cupping,” involves creating a
             small vacuum on the skin using specially designed cups. These cups
             are strategically placed on the body and, with a gentle suction, are
@@ -46,7 +46,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             How Hijama Eases Pain
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Cupping works by improving blood circulation to targeted areas of
             the body. This increased blood flow helps reduce inflammation, which
             is often the cause of chronic pain. People suffering from back pain,
@@ -61,7 +61,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             A Natural Way to Manage Stress
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama is not only beneficial for physical ailments but is also a
             remarkable remedy for mental and emotional well-being. When our
             bodies are under stress, we produce high levels of cortisol—the
@@ -90,7 +90,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             What to Expect During a Hijama Session
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             A Hijama session is typically conducted by a trained practitioner in
             a calm and private setting. During the session, the therapist may
             ask about specific areas of pain or stress, customizing the
@@ -110,30 +110,30 @@ export const blogPosts = [
             Key Benefits of Hijama Cupping Therapy
           </h3>
 
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Relief from Pain:</span> By
             increasing blood flow and reducing inflammation, Hijama provides
             targeted relief for various types of pain, from headaches to joint
             issues.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Enhanced Muscle Recovery:</span>{" "}
             Ideal for athletes or those with physically demanding routines,
             Hijama helps release built-up muscle tension and promotes quicker
             recovery.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. <span className="font-bold">Detoxification:</span> The gentle
             incisions allow for the removal of toxins, purifying the blood and
             promoting overall health.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4.{" "}
             <span className="font-bold">Stress Relief and Mental Clarity:</span>{" "}
             Many individuals find a Hijama session deeply relaxing, experiencing
             reduced anxiety and improved mental clarity.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             5. <span className="font-bold">Improved Sleep:</span> Hijama helps
             balance energy levels, which can significantly improve sleep quality
             and duration.
@@ -142,7 +142,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Looking for the Best Hijama Center in Hyderabad?
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             If you&apos;re searching for{" "}
             <Link
               href="/"
@@ -166,7 +166,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Final Thoughts
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama Cupping Therapy offers an incredible, time-tested option for
             anyone looking to manage pain and reduce stress naturally. By
             encouraging the body&apos;s innate ability to heal, Hijama provides
@@ -202,8 +202,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -263,11 +263,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             The Ultimate Guide to Cupping Therapy for Women in Hyderabad
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In the bustling city of Hyderabad, where modern living often brings
             stress, fatigue, and various health challenges, women are
             increasingly seeking holistic and natural methods to regain balance
@@ -283,7 +283,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             What Is Cupping Therapy?
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Cupping therapy involves the use of glass, silicone, or bamboo cups
             that create suction on the skin. This suction increases blood
             circulation stimulates the immune system, and helps detoxify the
@@ -292,12 +292,12 @@ export const blogPosts = [
             surface. <br />
             There are two main types of cupping:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Dry Cupping:</span> This involves
             placing cups on specific areas of the body to create suction without
             any cutting of the skin.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Wet Cupping (Hijama):</span> In this
             method, small incisions are made on the skin before placing the
             cups. This allows a small amount of blood to be drawn out, removing
@@ -317,7 +317,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Why Is Cupping Beneficial for Women?
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Women experience unique health challenges, from hormonal imbalances
             and menstrual discomfort to post-pregnancy recovery. Cupping therapy
             can offer relief in these areas by promoting blood flow and
@@ -332,27 +332,27 @@ export const blogPosts = [
             Key Benefits of Cupping for Women
           </h3>
 
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Hormonal Balance: </span> Cupping
             therapy can help regulate hormones, reducing the severity of
             menstrual pain and supporting women during menopause.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Fertility Support:</span> Many women
             turn to cupping to improve blood flow to reproductive organs,
             enhancing fertility
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. <span className="font-bold">Stress and Anxiety Relief:</span>The
             relaxing effect of cupping therapy helps alleviate stress, anxiety,
             and tension that often accumulate due to the demands of modern life.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4. <span className="font-bold">Improved Skin Health: </span> Cupping
             increases circulation, which can enhance skin tone and reduce acne,
             scarring, and other skin conditions.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             5. <span className="font-bold">Post-Pregnancy Recovery: </span>{" "}
             Cupping supports faster recovery after childbirth by improving blood
             flow and reducing swelling and inflammation.
@@ -361,7 +361,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Why Choose a Female Hijama Specialist?
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Choosing the right therapist is crucial, especially for women who
             may feel more comfortable with a female specialist. Female Hijama
             practitioners bring a deep understanding of the unique health
@@ -375,23 +375,23 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Finding the Right Cupping Center in Hyderabad
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             While many cupping centers exist across Hyderabad, not all are
             created equal. It&apos;s essential to choose a certified
             professional who understands women&apos;s health. Some important
             factors to consider when selecting a cupping therapy center include:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Experience:</span> Look for
             practitioners who are certified and experienced in treating
             women&apos;s health issues.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Hygiene Standards:</span> Ensure that
             the center follows strict hygiene practices, including the use of
             disposable cups and gowns for comfort and safety.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. <span className="font-bold">Personalized Care:</span> A good
             cupping therapist will tailor the treatment to your specific needs,
             ensuring a personalized and holistic approach. Learn more about
@@ -401,7 +401,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             At Our Center: We Prioritize Your Comfort and Safety
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Many Hijama centers overlook important details like providing
             disposable gowns for added hygiene and comfort. At our center, we
             ensure that every session is as comfortable and relaxing as
@@ -412,26 +412,26 @@ export const blogPosts = [
             What to Expect During Your Cupping Session
           </h3>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Your first cupping session may feel unfamiliar, but it&apos;s a
             calming and therapeutic experience. Here&apos;s what to expect:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Consultation:</span> Your therapist
             will discuss your health history, specific concerns, and wellness
             goals to customize the treatment.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Preparation:</span> You will be asked
             to lie down, and cups will be placed on your skin. For wet cupping,
             small incisions may be made to allow for the removal of toxins.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. <span className="font-bold">Relaxation: </span> The cups will
             remain on your skin for about 10 to 15 minutes, creating a suction
             effect that draws blood to the surface.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4. <span className="font-bold">Aftercare:</span> Once the treatment
             is complete, your therapist will clean the area and may offer
             guidance on how to take care of your skin afterward.
@@ -439,19 +439,19 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             Post-Treatment Tips for Women
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             After your session, it&apos;s important to give your body time to
             heal and adjust. Here are a few tips to follow:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. <span className="font-bold">Stay Hydrated:</span> Drink plenty of
             water to help your body flush out toxins.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. <span className="font-bold">Rest:</span> Your body may feel more
             relaxed, so take some time to rest and recharge.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. <span className="font-bold">Avoid Intense Exercise:</span> Give
             yourself a day or two before engaging in vigorous activities to
             allow your body to recover.
@@ -460,7 +460,7 @@ export const blogPosts = [
             Final Thoughts: A Holistic Path to Wellness
           </h3>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Cupping therapy offers a natural, effective way for women to address
             various health concerns, from stress relief to hormonal balance.
             Whether you&apos;re new to cupping or looking to deepen your
@@ -500,8 +500,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -562,11 +562,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Why Choose a Female Hijama Specialist in Hyderabad?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Selecting the right Hijama therapist is crucial, especially for
             women who may feel more comfortable consulting a female specialist.
             Many women prefer working with a female Hijama practitioner, as it
@@ -594,7 +594,7 @@ export const blogPosts = [
             />
           </div>
 
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Moreover, female therapists often provide a comfortable and private
             environment, making the experience more relaxing and less stressful,
             particularly for women who might be shy or uncomfortable during
@@ -612,7 +612,7 @@ export const blogPosts = [
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold font-playfair py-6">
             We provide disposable gowns for added comfort and hygiene
           </h3>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Many Hijama centers overlook the importance of providing disposable
             gowns, which can affect the overall experience for clients. At our
             center, we prioritize your comfort and safety by offering disposable
@@ -621,7 +621,7 @@ export const blogPosts = [
             during your Hijama therapy.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             By choosing a female Hijama specialist, women can benefit from a
             holistic approach to health, focusing not just on physical
             well-being but also on emotional and mental wellness. These
@@ -659,8 +659,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -721,11 +721,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Hormonal Issues?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             One of the most commonly disregarded fact is that blood circulation
             issues can indirectly cause hormonal imbalances. Let&apos;s say when
             someone is diagnosed with Hypothyroid it not necessarily mean that
@@ -744,7 +744,7 @@ export const blogPosts = [
             />
           </div>
 
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1.{" "}
             <span className="font-bold">
               Hypoperfusion and Hormonal Imbalances:
@@ -757,7 +757,7 @@ export const blogPosts = [
             may disrupt its hormone production and secretion, potentially
             resulting in hormonal imbalances.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2.{" "}
             <span className="font-bold">
               Impaired Blood Flow and Hormone Delivery:
@@ -770,7 +770,7 @@ export const blogPosts = [
             can lead to hormonal imbalances, potentially causing menstrual
             irregularities.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3.{" "}
             <span className="font-bold">
               Circulatory Disorders and Endocrine Glands:
@@ -783,7 +783,7 @@ export const blogPosts = [
             compromised blood flow to the adrenal glands can lead to adrenal
             hormone deficiencies or excesses.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4.{" "}
             <span className="font-bold">
               Inflammation and Hormonal Imbalances:
@@ -838,8 +838,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -900,11 +900,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Why blood cleansing is vital?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Blood cleansing plays a vital role in maintaining good health and
             overall well-being. The bloodstream acts as a transportation
             network, delivering essential nutrients, oxygen, and hormones to
@@ -930,7 +930,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Blood cleansing offers numerous benefits. Firstly, it strengthens
             the immune system, enabling it to fight pathogens and infections
             more effectively. By removing toxins, blood cleansing promotes the
@@ -938,7 +938,7 @@ export const blogPosts = [
             immune response.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Secondly, blood cleansing improves organ function, particularly of
             the liver and kidneys, which play a critical role in filtering and
             eliminating toxins. By eliminating accumulated toxins, these organs
@@ -946,7 +946,7 @@ export const blogPosts = [
             longevity.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Thirdly, blood cleansing acts as a natural detoxification process.
             In our modern world, we are constantly exposed to environmental
             pollutants and harmful substances. Blood cleansing helps remove
@@ -954,14 +954,14 @@ export const blogPosts = [
             the body.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Lastly, clean blood enhances energy and vitality. Improved
             circulation and oxygenation result in increased energy levels and a
             greater sense of well-being. Nutrients are efficiently delivered to
             cells, enhancing their performance and overall vitality.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             One effective method of blood cleansing is Hijama cupping therapy.
             It is a divine therapy that stimulates the body&aposs internal
             cleansing mechanisms, aiding in the removal of toxins, waste
@@ -970,7 +970,7 @@ export const blogPosts = [
             tissue cells, contributing to overall health and well-being.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In summary, blood cleansing is vital for maintaining optimal health.
             It supports a strong immune system, improves organ function,
             detoxifies the body, and enhances energy and vitality. By ensuring a
@@ -1011,8 +1011,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1073,11 +1073,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Why Hijama?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The proper functioning of our organs and muscles relies on a
             continuous and ample blood supply, which carries vital resources
             such as oxygen, nutrients, healing agents, hormones,
@@ -1103,7 +1103,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Blood cleansing offers numerous benefits. Firstly, it strengthens
             the immune system, enabling it to fight pathogens and infections
             more effectively. By removing toxins, blood cleansing promotes the
@@ -1111,7 +1111,7 @@ export const blogPosts = [
             immune response.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Secondly, blood cleansing improves organ function, particularly of
             the liver and kidneys, which play a critical role in filtering and
             eliminating toxins. By eliminating accumulated toxins, these organs
@@ -1119,7 +1119,7 @@ export const blogPosts = [
             longevity.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Thirdly, blood cleansing acts as a natural detoxification process.
             In our modern world, we are constantly exposed to environmental
             pollutants and harmful substances. Blood cleansing helps remove
@@ -1127,14 +1127,14 @@ export const blogPosts = [
             the body.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Lastly, clean blood enhances energy and vitality. Improved
             circulation and oxygenation result in increased energy levels and a
             greater sense of well-being. Nutrients are efficiently delivered to
             cells, enhancing their performance and overall vitality.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             One effective method of blood cleansing is Hijama cupping therapy.
             It is a divine therapy that stimulates the body&aposs internal
             cleansing mechanisms, aiding in the removal of toxins, waste
@@ -1143,7 +1143,7 @@ export const blogPosts = [
             tissue cells, contributing to overall health and well-being.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In summary, blood cleansing is vital for maintaining optimal health.
             It supports a strong immune system, improves organ function,
             detoxifies the body, and enhances energy and vitality. By ensuring a
@@ -1184,8 +1184,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1246,11 +1246,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             What&apos;s happening under the Cups?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             When cups are applied to the skin, a negative pressure is created,
             causing a rapid diffusion of various substances within the tissues.
             These substances are drawn to the surface, forming a pool primarily
@@ -1270,7 +1270,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             After 7-10 minutes, the cups are removed, and small incisions are
             made before the cups are reapplied. Through these punctures, a
             significant portion of the pool&apos;s contents are expelled from
@@ -1278,7 +1278,7 @@ export const blogPosts = [
             dysfunction, failure, and various diseases.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The body responds to cupping as if it were an injury, sending a rush
             of blood carrying repairing and healing elements to the area. This
             increased blood circulation cleanses the area and delivers oxygen,
@@ -1290,7 +1290,7 @@ export const blogPosts = [
             can be prevented to a significant extent.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Apart from the above mentioned several physical reactions also occur
             underneath the cup. The suction created by the cup helps to release
             tension and tightness in the muscles and soft tissues. It can help
@@ -1328,8 +1328,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1390,11 +1390,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             What is Hijama Cupping ?
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama, also known as cupping therapy, is considered a divine
             therapy that encompasses the body, mind, and soul. The human body
             relies on five vital organs—heart, brain, kidneys, liver, and
@@ -1419,7 +1419,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Maintaining a clean and toxin-free bloodstream is crucial for the
             effective functioning of our bodies. While the human body has its
             natural detoxification mechanisms, there are limits to its ability
@@ -1432,7 +1432,7 @@ export const blogPosts = [
             compromised.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama cupping therapy holds a significant place in promoting and
             stimulating these vital functions. By creating small incisions on
             the skin&apos;s surface, it assists in the cleansing/detoxification
@@ -1443,7 +1443,7 @@ export const blogPosts = [
             health and well-being.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The practice of Hijama has been embraced for centuries and is
             believed to have numerous benefits. It not only supports physical
             health but is also thought to have positive effects on mental and
@@ -1479,8 +1479,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1540,11 +1540,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Effects of Hijama Cupping
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama Cupping therapy extends beyond the mere placement of cups,
             incisions, and blood extraction. The utilization of negative
             pressure and superficial incisions during Hijama Cupping yields
@@ -1560,7 +1560,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             HOME ABOUT US TREATMENT PLANS FAQ BLOGS CONTACT US COURSES Instagram
             Facebook YouTube Effects of Hijama Cupping May 25, 2023 5 min read
             Hijama Cupping therapy extends beyond the mere placement of cups,
@@ -1591,7 +1591,7 @@ export const blogPosts = [
             diabetes.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             These effects align with the body&apos;s intrinsic processes.
             Nonetheless, chronic stress, lifestyle concerns, inadequate dietary
             habits, processed food consumption, sedentary living, alcohol abuse,
@@ -1607,7 +1607,7 @@ export const blogPosts = [
           <br />
           <span className="font-bold">Reference:</span> National Library of
           Medicine
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             There is converging evidence that cupping can induce comfort and
             relaxation on a systemic level and the resulting increase in
             endogenous opioid production in the brain leads to improved pain
@@ -1693,8 +1693,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1755,11 +1755,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Treating Spider Veins, Varicose Veins by Hijama Cupping
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Spider veins are often confused with varicose veins, but there are
             distinct differences between the two. Spider veins are smaller,
             closer to the skin&apos;s surface, and typically do not cause
@@ -1792,7 +1792,7 @@ export const blogPosts = [
             varicose veins with potentially severe symptoms. Varicose veins and
             Spider Veins can co-exist also.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Varicose veins are bulging, twisted veins that can cause more
             significant symptoms, including pain, swelling, and a higher risk of
             complications such as blood clots or skin ulcers. Varicose veins
@@ -1801,7 +1801,7 @@ export const blogPosts = [
             classified based on the appearance and symptoms associated with the
             condition. Here are the typical stages:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stage 1: Spider Veins or Reticular Veins In the early stage of
             varicose veins, small clusters of dilated blood vessels known as
             spider veins or reticular veins may appear on the skin&apos;s
@@ -1810,7 +1810,7 @@ export const blogPosts = [
             usually associated with significant symptoms but can be a cosmetic
             concern.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stage 2: Spider Veins transformation to Varicose Veins As varicose
             veins progress, larger veins become affected. Varicose veins are
             characterized by twisted, bulging veins that are visible beneath the
@@ -1828,14 +1828,14 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stage 3: Edema or Swelling With continued progression, varicose
             veins can lead to edema, which is the accumulation of fluid in the
             tissues. Edema commonly affects the lower legs, ankles, and feet.
             The swelling can worsen throughout the day and may be accompanied by
             a feeling of tightness or heaviness in the affected limbs.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stage 4: Skin Changes As varicose veins persist, the affected skin
             may undergo changes. The skin around the varicose veins may become
             discolored, appearing brownish or reddish. It may also feel dry,
@@ -1845,7 +1845,7 @@ export const blogPosts = [
             and can be painful and difficult to heal.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stage 5: Complications In severe cases and if left untreated,
             varicose veins can lead to complications such as thrombophlebitis
             (inflammation of a vein with blood clot formation), bleeding from
@@ -1855,12 +1855,12 @@ export const blogPosts = [
             symptoms, skin changes, and increased risk of complications
           </p>{" "}
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">How Hijama Cupping Helps:</span> We at
             i-Revive apply gliding cupping techniques prior to Hijama which
             works wonders in Spider/Varicose veins issue.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">Increased Blood Flow:</span> We start
             with gliding cupping, the movement of the cups across the skin
             provides mechanical stimulation to the blood vessels and surrounding
@@ -1871,20 +1871,20 @@ export const blogPosts = [
             or capillaries and hence getting the blood move and reducing the
             accumulated pressure on the blood vessels.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">Lymphatic Drainage:</span> Cupping
             therapy stimulates the lymphatic system, which plays a crucial role
             in removing waste products and excess fluids from the body. By
             enhancing lymphatic drainage, cupping therapy helps eliminating the
             stagnant blood and reduce any associated swelling or congestion.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">Tissue Decompression:</span>The negative
             pressure created by the cups during cupping therapy decompresses the
             tissues. This helps in release of any trapped or congested blood,
             allowing it to flow more freely and reduce stasis.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             It&apos;s important to note that not all individuals with varicose
             veins can be dealt in a same manner especially the one whose vein
             have deteriorated to the final stages like ulcers, sever pain etc.
@@ -1921,8 +1921,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -1983,11 +1983,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             PCOS : Answer is Hijama Cupping
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Polycystic ovary syndrome (PCOS) is a hormonal disorder affecting
             many women worldwide. It is characterized by hormonal imbalances,
             ovarian cysts, and various symptoms such as irregular menstrual
@@ -2020,12 +2020,12 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Here are potential ways in which hijama can help individuals with
             PCOS:
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. Improved Blood Circulation: Hijama enhanced blood circulation in
             the treated areas. By targeting specific points associated with
             reproductive organs, hijama stimulates blood flow to the ovaries and
@@ -2034,7 +2034,7 @@ export const blogPosts = [
             menstrual irregularities.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. Detoxification: Hijama aids in detoxification by drawing out
             toxins and metabolic waste products from the body. PCOS is
             associated with insulin resistance and hormonal imbalances, and
@@ -2042,7 +2042,7 @@ export const blogPosts = [
             hormone regulation.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. Stress Reduction: Stress can worsen PCOS symptoms and disrupt
             hormonal balance. Hijama is often accompanied by a relaxing and
             calming effect, helping to alleviate stress and promote a sense of
@@ -2050,14 +2050,14 @@ export const blogPosts = [
             to better management of PCOS.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4. Pain Relief: Some women with PCOS experience pelvic pain or
             discomfort. It is well established that Hijama provides relief from
             musculoskeletal pain and promote relaxation, which may be beneficial
             in managing such symptoms.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             5. Support for Fertility: Infertility is a common concern for women
             with PCOS. While hijama alone may not directly treat all cases of
             infertility, but it supports reproductive health by improving blood
@@ -2066,7 +2066,7 @@ export const blogPosts = [
             plan, hijama does have a major positive impact.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="font-bold">Conclusion:</span> <br />
             Hijama, along with diet and lifestyle changes, can help females
@@ -2078,7 +2078,7 @@ export const blogPosts = [
             is important to note that hijama should be performed by trained and
             experienced professionals to ensure safety and effectiveness.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="font-bold">Disclaimer:</span> <br />
             This article is for informational purposes only and should not be
@@ -2114,8 +2114,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2176,11 +2176,11 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Best Hijama Practices
           </h1>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Like any practice, there are certain protocols that make Hijama much
             more effective, when done in accordance with. Listed below are some
             precautionary measures that will ensure you achieve the best
@@ -2198,7 +2198,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The 17th, 19th and 21st of the Hijri month are generally regarded as
             the Sunnah days of Hijama. Anas RA narrated,“The Prophet (S.A.W)
             would get cupped in his jugular veins and his upper back. And he
@@ -2217,7 +2217,7 @@ export const blogPosts = [
             gravitational pull.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="text-2xl">The Sunnah Points</span> <br />
             The Sunnah points are those Hijama sites that were recommended by
@@ -2236,7 +2236,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="text-2xl">
               Empty Stomachs on Early Mornings
@@ -2259,7 +2259,7 @@ export const blogPosts = [
             or syncope (fainting).
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="text-2xl">
               Healthy Diet and Plenty of Hydration
@@ -2279,7 +2279,7 @@ export const blogPosts = [
             clients to stay away from milk on day of Hijama post session.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             {" "}
             <span className="text-2xl">Summer Heat</span> <br />
             Blood is one of the foremost receptors of external heat and acts as
@@ -2298,14 +2298,14 @@ export const blogPosts = [
             the Sunnah days), such as for wounds and poisoning.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The best state to do Hijama in is when one is healthy and illness
             has not set in, for it acts mainly as a blood cleanser and a
             preventative medicine. It&apos;s like the saying goes: better be
             safe than sorry
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             References: Sheikho, Mohammad Amin. 2012. “Cupping: A Prophetic
             Medicine Appears In Its New Scientific Perspective.” In Cupping: A
             Prophetic Medicine Appears In Its New Scientific Perspective, by
@@ -2342,8 +2342,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2403,7 +2403,7 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Heavy Metals removal by Hijama
           </h1>
@@ -2416,25 +2416,25 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Heavy metals, such as lead, mercury, arsenic, cadmium, and others,
             are toxic substances that can have extremely harmful effects on the
             body. Heavy metals can adversely affect human health:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Toxicity:</span>Heavy metals can
             interfere with normal cellular functions and disrupt biological
             processes. Heavy metals have the potential to accumulate in tissues
             and organs, leading to long-term damage.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Neurological Effects:</span>Many heavy
             metals have neurotoxic properties, meaning they can damage the
             nervous system. They can impair cognitive function, cause
             neurological disorders, and lead to symptoms such as memory loss,
             difficulty concentrating, nerve damage, and behavioral changes.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Organ Damage:</span>Heavy metals can
             target specific organs and cause damage. For example, lead primarily
             affects the central nervous system and can lead to developmental
@@ -2442,20 +2442,20 @@ export const blogPosts = [
             damage the kidneys and nervous system, while cadmium can harm the
             kidneys and lungs.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Carcinogenic Effects:</span>Some heavy
             metals, such as arsenic, cadmium, and certain forms of chromium,
             have been classified as carcinogens. Prolonged exposure to these
             substances increases the risk of developing various types of
             cancers, including lung, bladder, and liver cancer.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Cardiovascular Effects:</span>Heavy
             metals like lead and cadmium have been associated with
             cardiovascular problems. They can contribute to high blood pressure,
             heart disease, and an increased risk of heart attacks and strokes.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">
               - Reproductive and Developmental Issues:
             </span>
@@ -2465,7 +2465,7 @@ export const blogPosts = [
             metals, such as lead and mercury, can be passed from mother to
             child, potentially causing developmental disorders.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">- Kidney Damage:</span>
             Several heavy metals, including lead, mercury, and cadmium, can
             accumulate in the kidneys and cause kidney damage or dysfunction.
@@ -2473,7 +2473,7 @@ export const blogPosts = [
             products from the body.
           </p>{" "}
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             It&apos;s important to note that the specific health effects of
             heavy metals depend on the type of metal, dose, duration of
             exposure, and individual susceptibility. Occupational exposure,
@@ -2481,12 +2481,12 @@ export const blogPosts = [
             consumer products are common sources of heavy metal exposure.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The body has natural mechanisms to eliminate toxins, including heavy
             metals, but there are several reasons why it may not be able to
             expel them efficiently:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. Absorption and Accumulation: Heavy metals can enter the body
             through various sources such as contaminated air, water, food, or
             exposure to certain occupational or environmental conditions. Once
@@ -2495,7 +2495,7 @@ export const blogPosts = [
             accumulation of heavy metals over time can overwhelm the body&apos;s
             natural detoxification processes.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. Complex Metabolism: Some heavy metals, such as lead, mercury,
             arsenic, and cadmium, have complex metabolic pathways in the body.
             They can undergo transformations and become tightly bound to
@@ -2503,7 +2503,7 @@ export const blogPosts = [
             can also be stored in body compartments, like bones, where they can
             remain for extended periods, further impeding their elimination.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. Low Elimination Rate: Heavy metals can have a slow elimination
             rate from the body. The process of detoxification and elimination
             relies on specific enzymes, transporters, and excretory systems. In
@@ -2511,27 +2511,27 @@ export const blogPosts = [
             metals may not be efficient enough to eliminate them rapidly,
             resulting in their persistence.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             4. Binding to Body Proteins: Heavy metals can bind to proteins in
             the body, altering their structure and function. This can disrupt
             normal cellular processes and interfere with the body&apos;s ability
             to identify and eliminate these metals effectively.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             5. Overburdened Detoxification Pathways: The bodyvs detoxification
             pathways, primarily involving the liver and kidneys, may become
             overwhelmed when exposed to high levels of heavy metals or when
             other toxic substances are present. When these pathways are
             overloaded, the elimination of heavy metals can be impaired.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             6. Genetic Factors: Genetic variations can influence an
             individual&apos;s ability to eliminate heavy metals. Some people may
             have genetic variations that affect the function of enzymes involved
             in detoxification pathways, making them more susceptible to heavy
             metal toxicity and impairing their elimination.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             It&apos;s important to note that the body does have natural defense
             mechanisms to eliminate heavy metals, and in most cases, it can
             successfully eliminate small amounts. However, chronic or high-level
@@ -2540,11 +2540,11 @@ export const blogPosts = [
             greatly help to enhance the elimination of heavy metals from the
             body.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             The following are some ways in which hijama potentially supports in
             the removal of heavy metals:
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             1. Increased Blood Circulation: Hijama involves creating suction on
             specific points of the body using cups, which enhances blood
             circulation in the treated areas. Improved blood circulation helps
@@ -2552,21 +2552,21 @@ export const blogPosts = [
             transportation to elimination organs like the liver and kidneys.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             2. Lymphatic System Stimulation: Hijama stimulates the lymphatic
             system, which plays a crucial role in waste removal from the body.
             The suction applied during hijama assists in promoting lymphatic
             flow, potentially aiding in the elimination of heavy metals and
             other toxins through the lymphatic system.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             3. Detoxification Support: Hijama assists in the detoxification
             process by drawing out impurities from the underlying tissues. The
             suction created during hijama helps remove heavy metals that have
             accumulated in tissues, assisting the body&apos;s natural
             detoxification mechanisms.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             There is ample reference to Hijama being a means by which the
             body&apos;s toxic blood is removed, and for the average John Doe,
             proof of it is generally shown through the coagulation of the
@@ -2577,7 +2577,7 @@ export const blogPosts = [
             that the blood content of Hijama is starkly different to that of
             venous blood, say that which is taken out in a blood test for exampl
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In a study conducted by the Turgut Ozal University (Gok, et al.
             2016), it was proved that the percentage of heavy metals (such as
             mercury, lead and aluminium) extracted by Hijama was at least 2-8
@@ -2596,7 +2596,7 @@ export const blogPosts = [
             can purify both blood and interstitial fluids from toxic metals.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             In another study conducted and supervised by Dr. M. Nabeel
             Al-Shareef (Sheikho 2012), it was shown that Hijama led to a
             decrease in the value of uric acid, creatinine, cholesterol and the
@@ -2611,7 +2611,7 @@ export const blogPosts = [
             like.{" "}
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Our body is a constant recipient of years of toxic build-up in our
             blood whether through our food intake, the water we drink, the
             products we apply or the atmosphere we are exposed to. Such toxins
@@ -2628,7 +2628,7 @@ export const blogPosts = [
             onset of any disease is almost always the inadequacy of the blood.{" "}
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">References</span> We start Azeh Engwa,
             G., Udoka Ferdinand, P., Nweke Nwalo, F., & N. Unachukwu, M. (2019).
             Mechanism and Health Effects of Heavy Metal Toxicity in Humans.
@@ -2672,8 +2672,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
@@ -2734,7 +2734,7 @@ export const blogPosts = [
     content: (
       <div className="max-w-4xl mx-auto py-6 md:py-16">
         <div>
-          <p className="text-gray-700">>Oct 30, 2024 3 min read</p>
+          <p className="text-gray-700">Oct 30, 2024 3 min read</p>
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold font-playfair py-6 text-gray-900">
             Stress and Hijama
           </h1>
@@ -2747,7 +2747,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             A delayed work assignment. Traffic before an important meeting.
             Hearing your superior scold you. Remembering you left the stove on.
             Trying to cover up a mistake. Sound familiar?
@@ -2761,7 +2761,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stress is a natural physical and mental reaction to life
             experiences. Everyone expresses stress from time to time. Anything
             from everyday responsibilities like work and family to serious life
@@ -2772,14 +2772,14 @@ export const blogPosts = [
             increase your heart and breathing rates and ready your muscles to
             respond, known as the &apos;fight or flight&apos;response.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Yet if your stress response doesn&apos;t stop firing, and these
             stress levels stay elevated far longer than is necessary for
             survival, it can take a massive toll on your health. (Marks 2021) .
             When discussing stress, it is usually the psychological aftereffects
             that are highlighted and talked about, like depression and anxiety.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             However, neurotic levels of stress can also lead to severe
             physiological dysfunction also. Under stress, your heart starts
             pumping faster. Stress hormones cause your blood vessels to
@@ -2788,7 +2788,7 @@ export const blogPosts = [
             blood pressure, and chronically high blood pressure can potentially
             lead to cardiovascular diseases. How?
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             When blood rapidly clashes with the vessels at higher-than-normal
             pressure, our veins and arteries experience little episodes of
             damage, and this leads to inflammation and plaque build-up in them.
@@ -2796,7 +2796,7 @@ export const blogPosts = [
             narrows your blood vessels. In extreme cases, this kind of stress
             can also lead to strokes and heart attacks.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Chronic stress can also lead to stiff muscles, acidity, fertility
             problems, shortness of breath, prolonged back pain, stomachaches and
             many other health issues.
@@ -2810,7 +2810,7 @@ export const blogPosts = [
               className="w-full h-full max-h-[750px] object-cover"
             />
           </div>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Stress can have an impact on capillaries, which are small blood
             vessels that play a critical role in the body&apos;s circulation.
             Capillaries are responsible for exchanging nutrients, oxygen, and
@@ -2827,7 +2827,7 @@ export const blogPosts = [
             increased pressure may make it more difficult for the blood to flow
             freely through the body.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">So where does Hijama come in?</span>
             Stress eventually causes constriction of blood vessels & impairment
             of Capillaries which are underlying factor through which so many
@@ -2843,7 +2843,7 @@ export const blogPosts = [
             enhances the overall impact on vasoconstriction.
           </p>{" "}
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             When stress builds up and cumulate in the body the capillaries
             contract and over time they get stiff, calcified, almost dead and
             can no longer function and we get a buildup of poor tissue that
@@ -2864,12 +2864,12 @@ export const blogPosts = [
             helps release tight muscles and promote a sense of relaxation.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             Hijama (and dry cupping) also sedates the nervous system&apos;s
             processes and therefore relieves any stress the patient might be
             feeling at that time.
           </p>
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             At i-Revive the gliding cupping done before the Hijama process is
             extremely beneficial for stress-related issues. Neurotic stress can
             cause irreversible damages to our bodies and snowball into much
@@ -2879,7 +2879,7 @@ export const blogPosts = [
             by cabinets full of pills.
           </p>
           <br />
-          <p className="text-gray-700">>
+          <p className="text-gray-700">
             <span className="font-bold">References</span> Marks, Hedy. 2021.
             Stress Symptoms. 19 8. Accessed 2 25, 2023.
             https://www.webmd.com/balance/stress-management/stress-symptoms-effects_of-stress-on-the-body.{" "}
@@ -2913,8 +2913,8 @@ export const blogPosts = [
           </a>
         </div>
         <div className="flex justify-between py-4">
-          <p className="text-gray-700">>Recent Posts</p>
-          <p className="text-gray-700">>See all</p>
+          <p className="text-gray-700">Recent Posts</p>
+          <p className="text-gray-700">See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <div>
