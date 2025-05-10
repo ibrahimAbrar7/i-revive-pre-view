@@ -24,7 +24,7 @@ export default function VitalOrgans() {
             <h1 className="mt-4 text-2xl md:text-5xl font-extrabold text-gray-900 leading-tight">
                Vital Organ Cleanse
             </h1>
-            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl">
+            <p className="mt-6 text-lg text-gray-700 leading-relaxed max-w-xl text-justify">
               The vital organ cleanse is a body maintenance plan that targets all
             vital bodily systems. It is an exhaustive cleanse targeting all
             organs, addressing multiple conditions and body systems. The cleanse
