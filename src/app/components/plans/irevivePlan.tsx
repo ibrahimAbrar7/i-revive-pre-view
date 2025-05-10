@@ -79,7 +79,7 @@ export default function IRevivePlan() {
     {/* Duration */}
     <div className="w-full p-6 bg-gray-100 rounded-2xl shadow-md">
       <h2 className="text-2xl font-semibold text-gray-900 mb-4">Duration</h2>
-      <p className="text-gray-700">
+      <p className="text-gray-700 text-justify">
        3 Lymphatic cleanse session 3 Sessions - 2 LD (lymphatic
                 drainage)+ 1 HLD (LD followed by Hijama cupping on nodal sites)
                 + 3 session full body & vital organ cleanse (Upper body + Torso
